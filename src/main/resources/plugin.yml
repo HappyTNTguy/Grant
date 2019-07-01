@@ -1,0 +1,18 @@
+name: Grant
+version: 1.0ALPHA
+main: me.happy.grant.GrantPlugin
+description: A Grant Plugin
+author: HappyTNTguy
+commands:
+  grant:
+    description: Opens the grant gui
+    usage: /<command> player
+    aliases:
+      - rank
+      - giverank
+      - setrank
+      - rankset
+      - updaterank
+      - rankupdate
+      - rankgive
+      - rankset
